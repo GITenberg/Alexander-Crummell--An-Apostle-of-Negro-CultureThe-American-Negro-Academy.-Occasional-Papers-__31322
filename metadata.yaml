@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35151
     wikipedia: http://en.wikipedia.org/wiki/William_H._Ferris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31322#Alexander-Crummell--An-Apostle-of-Negro-CultureThe-American-Negro-Academy.-Occasional-Papers-_
 gutenberg_issued: '2010-02-18'
 gutenberg_type: Text
 identifiers:

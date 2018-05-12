@@ -1,0 +1,30 @@
+_repo: Alexander-Crummell--An-Apostle-of-Negro-CultureThe-American-Negro-Academy.-Occasional-Papers-__31322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferris, William Henry
+    birthdate: 1873
+    deathdate: 1941
+    gutenberg_agent_id: '35151'
+    url: http://www.gutenberg.org/2009/agents/35151
+    wikipedia: http://en.wikipedia.org/wiki/William_H._Ferris
+description: ''
+gutenberg_issued: '2010-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31322'
+  lccn: '37014815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Crummell, Alexander, 1819-1898'
+title: 'Alexander Crummell: An Apostle of Negro Culture
+
+  The American Negro Academy. Occasional Papers No. 20'
+url: http://www.gutenberg.org/ebooks/31322
